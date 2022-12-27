@@ -2,31 +2,31 @@ void main(List<String> args) {
   var days = 4;
   switch (days) {
     case 1:
-      print("Hey!!!\nToday is Sunday!..\nHave a good day...");
+      print("Today is Sunday!");
 
       break;
     case 2:
-      print("Hey!!!\nToday is Monday!..\nHave a good day...");
+      print("Today is Monday!");
 
       break;
     case 3:
-      print("Hey!!!\nToday is Tuesday!..\nHave a good day...");
+      print("Today is Tuesday!");
 
       break;
     case 4:
-      print("Hey!!!\nToday is Wednessday!..\nHave a good day...");
+      print("Today is Wednessday!");
 
       break;
     case 5:
-      print("Hey!!!\nToday is Thursday!..\nHave a good day...");
+      print("Today is Thursday!");
 
       break;
     case 6:
-      print("Hey!!!\nToday is Friday!..\nHave a good day...");
+      print("Today is Friday!");
 
       break;
     case 7:
-      print("Hey!!!\nToday is Satureday!..\nHave a good day...");
+      print("Today is Satureday!");
 
       break;
     default:
