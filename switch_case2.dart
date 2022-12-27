@@ -1,44 +1,35 @@
 void main(List<String> args) {
-  var days = 5;
+  var days = 4;
   switch (days) {
     case 1:
-      {
-        print("Sunday");
-      }
+      print("Hey!!!\nToday is Sunday!..\nHave a good day...");
+
       break;
     case 2:
-      {
-        print("Monday");
-      }
+      print("Hey!!!\nToday is Monday!..\nHave a good day...");
+
       break;
     case 3:
-      {
-        print("tuesday");
-      }
+      print("Hey!!!\nToday is Tuesday!..\nHave a good day...");
+
       break;
     case 4:
-      {
-        print("wednessday");
-      }
+      print("Hey!!!\nToday is Wednessday!..\nHave a good day...");
+
       break;
     case 5:
-      {
-        print("Thursday");
-      }
+      print("Hey!!!\nToday is Thursday!..\nHave a good day...");
+
       break;
     case 6:
-      {
-        print("Friday");
-      }
+      print("Hey!!!\nToday is Friday!..\nHave a good day...");
+
       break;
     case 7:
-      {
-        print("Satureday");
-      }
+      print("Hey!!!\nToday is Satureday!..\nHave a good day...");
+
       break;
     default:
-      {
-        print("Nothing");
-      }
+      print("Nothing");
   }
 }
